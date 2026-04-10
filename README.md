@@ -183,21 +183,15 @@ In the next few years, I believe the best DevOps engineers won’t be the ones w
 
 ### "Tell me about a mistake you made/Conflicts with teammate"
 
-This happened during a regular working day.
+In one of our projects, we had a conflict with the development team during a production release. They wanted to skip certain testing and validation steps in the CI/CD pipeline to release a hotfix quickly, as there was pressure from the business side.
 
-My teammate raised a PR and asked me to review and merge it. I was about to approve it, and at the same time, he found an issue in his own code and quickly messaged me asking not to merge yet.
+However, from a DevOps perspective, I was concerned that skipping those validations could introduce new issues into production. Instead of directly rejecting their request, I discussed with them and understood the urgency behind the release.
 
-But I had already merged it before I saw his message. That broke the pipeline, and we had to roll it back.
+We then agreed on a balanced approach — we kept critical validation steps like build verification and basic smoke tests, but skipped some non-critical checks to speed up the deployment.
 
-There was a moment of tension — he was frustrated, and honestly I felt bad too.
+The release went smoothly without any issues, and later we worked together to optimize the pipeline so that even full validations could run faster in future releases.
 
-I went to him directly and said, “My bad — I should have double-checked before merging. Let’s fix it together.”
-
-We rolled it back, he fixed the issue, and we redeployed.
-
-After that, we introduced a simple rule: for urgent PR updates, we always do a quick direct ping before merging, not just a message that can be missed.
-
-There were no hard feelings after that — we actually laughed about it later.
+This helped build better trust between teams and improved how we handled urgent releases going forward.
 
 ### "Tell me about a conflict with a manager" — Answer
 
@@ -227,6 +221,16 @@ Now, whenever I learn something new, I try to understand the basics quickly and 
 
 ### "How do you handle pressure?" — Answer
 
+In high-pressure situations, especially during production issues, I focus on staying calm and following a structured approach rather than reacting immediately.
+
+I first try to understand the impact and scope of the issue, then prioritize actions based on severity. I break the problem into smaller steps and troubleshoot layer by layer, which helps avoid confusion and speeds up resolution.
+
+I also communicate clearly with the team during such situations, so everyone is aligned and we avoid unnecessary delays.
+
+This approach helps me handle pressure effectively and resolve issues without panic
+
+(OR)
+
 I'll give you a real example.
 
 We had a deployment go to production, and shortly after that, things started breaking. Users were getting impacted, and we quickly realized something in the release had gone wrong.
@@ -241,6 +245,21 @@ It took a few hours, but production was stable by the end of it.
 
 For me, pressure is part of DevOps. Things will break. The key is staying calm, thinking clearly, and fixing the problem step by step instead of rushing.
 
+### 🎤 What are your strengths and weaknesses?
+
+### ✅ Strengths
+
+One of my key strengths is my problem-solving approach. I try to understand issues deeply and follow a structured method to resolve them, especially during production incidents.
+
+Another strength is my ownership mindset. If I see something impacting the system, I take responsibility to fix it instead of waiting for someone else.
+
+---
+
+### ⚠️ Weakness
+
+One area I’ve been working on is that earlier I used to spend more time trying to perfect a solution, which sometimes delayed execution.
+
+Over time, I’ve improved by focusing on delivering a practical solution first and then optimizing it step by step. This has helped me balance speed and quality much better.
 
 ### Why should we not hire you?
 
