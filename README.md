@@ -41,5 +41,12 @@ Second — their culture: **Warrior Spirit, Servant's Heart, Fun-LUVing Attitude
 
 And third — they have a strong tech center right here in Hyderabad. So it's not just a support office; real technology decisions are being made here. That means real growth opportunities for me.
 
+### What motivates you in your work?
+
+I’m mainly motivated by solving real problems and seeing the impact of my work in production.
+
+For example, when I optimize a pipeline or fix an issue that improves system performance or reduces downtime, it gives me a lot of satisfaction.
+
+I also enjoy learning new things and improving existing systems to make them more efficient and reliable.
 
 
