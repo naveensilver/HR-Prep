@@ -246,3 +246,14 @@ Once I found the root cause, I rolled back the deployment, made sure everything 
 It took a few hours, but production was stable by the end of it.
 
 For me, pressure is part of DevOps. Things will break. The key is staying calm, thinking clearly, and fixing the problem step by step instead of rushing.
+
+
+### Why should we not hire you?
+
+Honestly, I don’t think there is a strong reason not to hire me.
+
+But if I have to be very transparent, I’m still growing in terms of system design and architecture-level decision making. Most of my experience so far has been hands-on DevOps work like CI/CD, AWS, Terraform, and Kubernetes, and I’m now actively trying to move more into designing systems at scale.
+
+So if someone is looking for a very senior architect-level profile from day one, I may not fully fit that expectation yet.
+
+But if the role is about strong hands-on DevOps work, ownership of production systems, and willingness to learn and grow, then I’m fully aligned with that. I learn quickly, take ownership, and stay calm when things go wrong in production.
