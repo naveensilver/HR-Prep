@@ -201,19 +201,13 @@ There were no hard feelings after that — we actually laughed about it later.
 
 ### "Tell me about a conflict with a manager" — Answer
 
-This happened during an infrastructure migration task.
+In one situation, my manager wanted us to use a larger instance type for a service to handle performance concerns. However, after analyzing the usage metrics, I felt that the issue was not with capacity but with inefficient resource utilization.
 
-My manager gave me a deadline that I felt was a bit too tight for the amount of work involved. Migration work needs proper testing, validation, and rollback planning, so rushing it could create risk.
+Instead of directly disagreeing, I collected data from monitoring tools and showed that the CPU and memory usage were not fully utilized. I suggested optimizing the application configuration and scaling strategy instead of increasing the instance size, which would also help control costs.
 
-I did raise my concern once and explained that the timeline might be tight and could affect quality. But due to business pressure, the deadline stayed the same.
+After reviewing the data, my manager agreed to try the optimization approach first. We implemented the changes, and the performance improved without increasing infrastructure cost.
 
-After that, I focused on delivering it as best as I could. I worked extra hours and prioritized the critical parts, but even then, I missed the deadline by a couple of days because I didn’t want to skip testing or cut corners.
-
-When I informed my manager, I was honest about it. I explained what was completed, what was still pending, and shared a clear plan to finish it.
-
-He was initially not very happy, but he appreciated the transparency and the fact that I had a proper plan in place. We completed the migration shortly after, and everything went smoothly in production.
-
-Looking back, I feel I should have backed my concern with more details instead of just saying the timeline is tight. Now, whenever I see a deadline, I break down the work properly and communicate realistic timelines with clear reasoning.
+This experience taught me the importance of supporting my opinions with data and discussing solutions in a constructive way rather than just opposing decisions
 
 ### 🎤 "Tell me about a time you learned something new quickly" — Answer
 
